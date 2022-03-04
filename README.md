@@ -2,7 +2,7 @@
 
 멀티캠퍼스 빅데이터 교육 <u>두 번째</u> 프로젝트
 
-*또 다른 프로젝트* ➡️ [크롤링 및 시각화 프로젝트]() / 
+*또 다른 프로젝트* ➡️ [크롤링 및 시각화 프로젝트](https://github.com/oypark/Crawling-and-Visualization-Project) / 
 
 
 ---
