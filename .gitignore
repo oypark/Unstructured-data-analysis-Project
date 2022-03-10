@@ -1,6 +1,8 @@
 *.png
 *.jpeg
 *.xlsx
+*.bin
+*.vec
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
